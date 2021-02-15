@@ -1,0 +1,41 @@
+{
+"roller": {
+"teyitcirol": "803663176704196627",
+"erkekrol1": "803663176678768654",
+"erkekrol2": "803663176678768653",
+"erkekrol3": "",
+"kadınrol1": "803663176678768656",
+"kadınrol2": "803663176678768655",
+"kadınrol3": "",
+"kayıtsızrol": "803663176678768652",
+"karantinarol": "809377819838775297",
+"cezalırol": "803663176678768657",
+"booster": "803663176704196619",
+"ekiprol": "803663176704196620"
+},
+
+"kanallar": {
+"kurallar": "",
+"taglog": "",
+"genelchat": ""
+},
+
+"durumlar": {
+    "dogru": "",
+    "yanlis": ""
+},
+
+"taglar": {
+    "servertag": "",
+    "untag": ""
+}, 
+
+"renk": {
+    "kirmizi": "#7a000f",
+    "mor": "#AF48F1",
+    "mavi": "#0f3057",
+    "altin": "#ffe5b9",
+    "special": "#cd5d7d",
+    "stgmavi": "#3bbceb"
+} 
+}
